@@ -1,2 +1,5 @@
 URLs for TW resources:
 A cracking tutorial: https://youtu.be/BCQHnlnPusY
+
+Linter URLs
+Woke (add URL later)
